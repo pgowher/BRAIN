@@ -1,0 +1,7 @@
+mode,workload,overtaken_closes,ack_before_close,event_clears_ack_before,state_clears_ack_before,state_clears_total,interval_1
+atomic-0,burst,72,11,11,0,5,5
+atomic-0,quiet,26,19,19,1,8,8
+atomic-1,burst,57,11,11,0,8,8
+atomic-1,quiet,27,20,20,0,7,7
+preflight,burst,60,12,12,0,0,
+preflight,quiet,24,16,16,0,7,7

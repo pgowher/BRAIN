@@ -1,0 +1,13 @@
+mode,proposer,close_first,challenge_first
+preflight,Assessor ingress (V1),68,0
+preflight,Challenger ingress (V2),0,25
+preflight,Receipt observer (V3),4,56
+preflight,Cross-check (V4),5,20
+atomic-0,Assessor ingress (V1),74,0
+atomic-0,Challenger ingress (V2),0,46
+atomic-0,Receipt observer (V3),6,44
+atomic-0,Cross-check (V4),5,1
+atomic-1,Assessor ingress (V1),45,0
+atomic-1,Challenger ingress (V2),0,24
+atomic-1,Receipt observer (V3),19,57
+atomic-1,Cross-check (V4),5,20

@@ -1,0 +1,113 @@
+{
+  "wilson_95": {
+    "atomic-0/quiet/advance_overtaken": {
+      "k": 19,
+      "n": 24,
+      "ci": [
+        0.5953,
+        0.9076
+      ]
+    },
+    "atomic-0/burst/advance_overtaken": {
+      "k": 11,
+      "n": 96,
+      "ci": [
+        0.0652,
+        0.1936
+      ]
+    },
+    "atomic-3/quiet/advance_overtaken": {
+      "k": 0,
+      "n": 24,
+      "ci": [
+        0.0,
+        0.138
+      ]
+    },
+    "atomic-3/burst/advance_overtaken": {
+      "k": 0,
+      "n": 96,
+      "ci": [
+        0.0,
+        0.0385
+      ]
+    },
+    "guarded/closed_after_ordered_challenge": {
+      "k": 0,
+      "n": 586,
+      "ci": [
+        0.0,
+        0.0065
+      ]
+    }
+  },
+  "mcnemar_exact_w3_vs_w0": {
+    "quiet": {
+      "recorded_to_blocked": 19,
+      "blocked_to_recorded": 0,
+      "p": 3.814697265625e-06
+    },
+    "burst": {
+      "recorded_to_blocked": 11,
+      "blocked_to_recorded": 0,
+      "p": 0.0009765625
+    }
+  },
+  "head_start_ms": {
+    "quiet": {
+      "median": 240.6,
+      "min": 70.2,
+      "max": 492.1
+    },
+    "burst": {
+      "median": 67.3,
+      "min": 64.7,
+      "max": 71.6
+    }
+  },
+  "seeds_with_overtaking": {
+    "atomic-0/quiet": 7,
+    "atomic-0/burst": 3,
+    "atomic-3/quiet": 0,
+    "atomic-3/burst": 0
+  },
+  "gas": {
+    "registerReady": [
+      69470,
+      69482,
+      69494
+    ],
+    "fileChallenge": [
+      29216,
+      29228,
+      29240,
+      29252
+    ],
+    "close/preflight/RECORDED": [
+      31638,
+      31650,
+      31662
+    ],
+    "close/atomic-0/RECORDED": [
+      31772,
+      31784,
+      31796
+    ],
+    "close/atomic-0/BLOCKED": [
+      28735,
+      28747,
+      28759
+    ]
+  },
+  "proposer_blocks": {
+    "chain-1/V1": 96,
+    "chain-1/V2": 96,
+    "chain-1/V3": 95,
+    "chain-1/V4": 96,
+    "chain-2/V1": 95,
+    "chain-2/V2": 96,
+    "chain-2/V3": 96,
+    "chain-2/V4": 94
+  },
+  "round_change_log_lines": 0
+}

@@ -1,0 +1,15 @@
+mode,workload,lag_blocks,cases
+atomic-0,burst,2,141
+atomic-0,burst,3,19
+atomic-0,quiet,1,12
+atomic-0,quiet,2,4
+atomic-1,burst,2,158
+atomic-1,burst,3,2
+atomic-1,quiet,1,15
+atomic-1,quiet,2,1
+atomic-3,burst,3,160
+atomic-3,quiet,3,16
+preflight,burst,2,120
+preflight,burst,3,40
+preflight,quiet,1,13
+preflight,quiet,2,3
